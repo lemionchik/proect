@@ -1,0 +1,395 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: auto;
+
+    /* background: url("present.svg"); */
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background: no-repeat center url("background.svg");
+}
+
+h2 {
+    width: 00px;
+    height: 00px;
+}
+
+h3 {
+    margin-top: 00px;
+    width: 00px;
+    height: 00px;
+}
+main {
+    width: 100%;
+    height: 600px;
+}
+header .coob {
+    width: 0;
+    height: 0;
+}
+
+ header .coob .button button {
+    margin-left: 40px;
+    margin-top: 30px ;
+    width: 90px;
+    height: 20px;
+    background: no-repeat center /105% url("coob.svg");
+}
+
+header .analit {
+    width: 0;
+    height: 0;
+}
+
+header .analit .button button{
+    margin-top: 30px;
+    margin-left: 600px;
+    width: 90px;
+    height: 20px;
+    background: no-repeat center /100% url("analit.svg");
+}
+
+
+header .zaivka {
+    width: 0;
+    height: 0;
+}
+
+header .zaivka .button button {
+    margin-top: 25px;
+    margin-left: 950px;
+    width: 180px;
+    height: 40px;
+    background: no-repeat center /110% url("zaivka.svg");
+}
+
+main section {
+    width: 100%;
+    height: 700px;
+    background: no-repeat center /68% url("present.svg");
+}
+main section button {
+    margin-top: 150px;
+    margin-left: 50px;
+    padding-top:30px ;
+    width: 200px;
+    height: 50px;
+    background: no-repeat center /130% url("btm.svg") ;
+}
+ p {
+     padding-top: 150px;
+    margin-left:50px ;
+    width: 200px;
+    height: 40px;
+
+}
+h1 {
+    padding-top: 100px;
+   margin-left:50px ;
+   width: 260px;
+   height: 40px;
+
+}
+
+main section main section{
+    width: 100%;
+    height: 1500px;
+    background: no-repeat center /80% url("things.svg");
+}
+
+.fourth {
+    width: 0;
+    height: 0;
+}
+.fourth .button {
+    width: 0;
+    height: 0;
+}
+
+.fourth .button button {
+    margin-top: 890px;
+    margin-left: 1660px;
+    width: 250px;
+    height: 250px;
+    background: no-repeat center /150% url("icon4.svg") ;
+}
+
+.third {
+    width: 0px;
+    height: 0px;
+}
+
+.third .button {
+    width: 0px;
+    height: 0px;
+}
+
+.idti {
+    width: 0px;
+    height: 0px;
+}
+.idti .button {
+    width: 0px;
+    height: 0px;
+}
+
+.idti .button button {
+    margin-top: 664px;
+    margin-left: 284px;
+    width: 350px;
+    height: 50px;
+    background: no-repeat center /130% url("idti.svg") ;
+}
+
+.dal {
+    width: 0px;
+    height: 0px;
+}
+.dal .button {
+    width: 0px;
+    height: 0px;
+}
+
+.dal .button button {
+    margin-top: 667px;
+    margin-left: 741px;
+    width: 45px;
+    height: 45px;
+    background: no-repeat center /120% url("dal.svg") ;
+}
+
+.idti2 {
+    width: 0px;
+    height: 0px;
+}
+.idti2 .button {
+    width: 0px;
+    height: 0px;
+}
+
+.idti2 .button button {
+    margin-top: 664px;
+    margin-left: 895px;
+    width: 350px;
+    height: 50px;
+    background: no-repeat center /130% url("idti.svg") ;
+}
+
+.dal2 {
+    width: 0px;
+    height: 0px;
+}
+.dal2 .button {
+    width: 0px;
+    height: 0px;
+}
+
+.dal2 .button button {
+    margin-top: 667px;
+    margin-left: 1349px;
+    width: 45px;
+    height: 45px;
+    background: no-repeat center /120% url("dal.svg") ;
+}
+
+.idti3 {
+    width: 0px;
+    height: 0px;
+}
+.idti3 .button {
+    width: 0px;
+    height: 0px;
+}
+
+.idti3 .button button {
+    margin-top: 664px;
+    margin-left: 1505px;
+    width: 350px;
+    height: 50px;
+    background: no-repeat center /130% url("idti.svg") ;
+}
+
+.dal3 {
+    width: 0px;
+    height: 0px;
+}
+.dal3 .button {
+    width: 0px;
+    height: 0px;
+}
+
+.dal3 .button button {
+    margin-top: 667px;
+    margin-left: 1959px;
+    width: 45px;
+    height: 45px;
+    background: no-repeat center /120% url("dal.svg") ;
+}
+
+.idti4 {
+    width: 0px;
+    height: 0px;
+}
+.idti4 .button {
+    width: 0px;
+    height: 0px;
+}
+
+.idti4 .button button {
+    margin-top: 1348px;
+    margin-left: 284px;
+    width: 350px;
+    height: 50px;
+    background: no-repeat center /130% url("idti.svg") ;
+}
+
+.dal4 {
+    width: 0px;
+    height: 0px;
+}
+.dal4 .button {
+    width: 0px;
+    height: 0px;
+}
+
+.dal4 .button button {
+    margin-top: 1352px;
+    margin-left: 741px;
+    width: 45px;
+    height: 45px;
+    background: no-repeat center /120% url("dal.svg") ;
+}
+
+.idti5 {
+    width: 0px;
+    height: 0px;
+}
+.idti5 .button {
+    width: 0px;
+    height: 0px;
+}
+
+.idti5 .button button {
+    margin-top: 1348px;
+    margin-left: 895px;
+    width: 350px;
+    height: 50px;
+    background: no-repeat center /130% url("idti.svg") ;
+}
+
+.dal5 {
+    width: 0px;
+    height: 0px;
+}
+.dal5 .button {
+    width: 0px;
+    height: 0px;
+}
+
+.dal5 .button button {
+    margin-top: 1352px;
+    margin-left: 1349px;
+    width: 45px;
+    height: 45px;
+    background: no-repeat center /120% url("dal.svg") ;
+}
+
+.idti6 {
+    width: 0px;
+    height: 0px;
+}
+.idti6 .button {
+    width: 0px;
+    height: 0px;
+}
+
+.idti6 .button button {
+    margin-top: 1348px;
+    margin-left: 1505px;
+    width: 350px;
+    height: 50px;
+    background: no-repeat center /130% url("idti.svg") ;
+}
+
+.dal6 {
+    width: 0px;
+    height: 0px;
+}
+.dal6 .button {
+    width: 0px;
+    height: 0px;
+}
+
+.dal6 .button button {
+    margin-top: 1352px;
+    margin-left: 1959px;
+    width: 45px;
+    height: 45px;
+    background: no-repeat center /120% url("dal.svg") ;
+}
+
+.third button {
+    margin-top: 890px;
+    margin-left: 1230px;
+    width: 250px;
+    height: 250px;
+    background: no-repeat center /150% url("icon3.svg") ;
+}
+
+.second {
+    width: 0px;
+    height: 0px;
+}
+
+.second .button {
+    width: 0px;
+    height: 0px;
+}
+
+.second .button button {
+    margin-top: 890px;
+    margin-left: 800px;
+    width: 250px;
+    height: 250px;
+    background: no-repeat center /150% url("icon2.svg") ;
+}
+
+.first{
+    width: 0px;
+    height: 0px;
+}
+
+.first .button{
+    width: 0px;
+    height: 0px;
+}
+
+.first .button button{
+    margin-top: 890px;
+    margin-left: 370px;
+    width: 250px;
+    height: 250px;
+    background: no-repeat center /150% url("icon1.svg") ;
+}
+
+section main{
+    padding-top: 750px;
+    width: 100%;
+    height: 200px;
+    background: no-repeat center /70% url("work.svg");
+}
+
+footer {
+
+    padding-bottom: 0px;
+    width: 100%;
+    height: 80px;
+    background: no-repeat center /130% url("footer.svg");
+}
